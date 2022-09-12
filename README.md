@@ -5,15 +5,7 @@
 - 📫 You can reach me sebastianmolinasb@gmail.com
 Arg. GMT - 3 +54 2966 633937 Whatsapp or Telegram.
   My skills are:
-  - Ruby on Rails (novice to ninja)
-  - Javascript (learning)
-  - React (learning)
-  - Postgresql
-  - Heroku
-  - Aws
-  - HTML/CSS
-  - Bootstrap / Tailwind
-  - Vue JS (next language to learn)
+  HTML CSS Bootstrap Sass JavaScript Node.js Express MySQL MongoDB React Git GitHub Visual Studio Code 
 <!---
 sbmol/sbmol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
